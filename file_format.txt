@@ -1,0 +1,9 @@
+steps file:
+in the steps file we insert every object's name, and after its name- the move it did. 
+for the ghosts, we mentioned the number of each one next to the object's name. 
+for the fruit, we added the appearance and disapearance: when the fruit apear, we mentioned the figure, than the coord of x, and than the coord of y. (x,y) - the point the fruit showed. when the fruit disapear, we mentioned the num of iteration.
+
+result file-
+in the result file we insert in every line-the time of death of pacman.
+in the last line there will always be the time pacman ended the game.
+ 
